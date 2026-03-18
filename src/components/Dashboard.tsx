@@ -107,7 +107,7 @@ export default function Dashboard() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-2xl font-bold text-gray-900">
-                Welcome back, {profile?.full_name}!
+                Welcome to SpeechFlow, {profile?.full_name}!
               </h1>
               <p className="text-gray-600 text-sm">Keep up the great work</p>
             </div>
